@@ -1,0 +1,16 @@
+p {
+  white-space: pre;
+}
+
+.bg-dark {
+  background-color: #212529 !important;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+/*# sourceMappingURL=my.css.map */
